@@ -2,18 +2,18 @@
 
 ## ABOUT ME
 
-Web technologies lover and Symfony advocator. Fullstack web developer, part-time layout and web designer. Learning enthusiast, open-minded for change. Parent of one.
+Web technologies lover and Symfony advocator. Fullstack web developer, part-time layout and web designer. Learning enthusiast, open-minded for change. Father of one.
 
 ## GOALS
 
-Develop great solutions and high-value softwares, Deep Learning and Machine Learning, high scalability softwares. Multiplatforms solutions and learning technologies like Flutter, React and more.
+Develop great solutions and high-value softwares, Deep Learning and Machine Learning, high scalability softwares. Multiplatforms solutions and learning technologies like Flutter, React and much more.
 
 ## COMPETENCIES
 
 - Problem Analysis and Problem Solving
 - Profesional Expertise
 - Learning Agility and Development
-- Adaptability for Changes
+- Adaptability to Changes
 - Interpersonal Skills
 - Teamwork and Team Building
 - Customer Focus
@@ -58,7 +58,7 @@ Develop great solutions and high-value softwares, Deep Learning and Machine Lear
 
 ## EXPERIENCE
 
-More than 10 years programing in PHP technologies and more than 5 years using Symfony as preferred framework. Experienced with Javascript, CSS and HTML in frontend developments. Used to usgin Git as version control since ever. Excited by Plataform as a Service(PaaS) technologies, such as Docker and Kubernetes. Part-time DevOps, running tests, deploying services in cloud and hosting servers and more. Sometimes, a little perfectionist.
+More than 10 years programing in PHP technologies and more than 5 years using Symfony as preferred framework. Experienced with Javascript, CSS and HTML in frontend developments. Used to usgin Git as version control since ever. Excited by Platform as a Service(PaaS) technologies, such as Docker and Kubernetes. Part-time DevOps, running tests, deploying services in cloud and hosting servers and more. Sometimes, a little perfectionist.
 
 
 ## PORTFOLIO
