@@ -1,24 +1,20 @@
-# dundivet.github.io
+# Carlos J. Infante Ramos (dundivet.github.io)
 
-## Project setup
-```
-yarn install
-```
+## ABOUT ME
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Web technologies lover and Symfony advocator. Fullstack web developer, part-time layout and web designer. Learning enthusiast, open-minded for change. Parent of one.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## GOALS
 
-### Lints and fixes files
-```
-yarn lint
-```
+Develop great solutions and high-value softwares, Deep Learning and Machine Learning, high scalability softwares. Multiplatforms solutions and learning technologies like Flutter, React and more.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## SKILLS
+
+- PHP
+- Javascript
+- UI/UX Design
+- DevOps
+
+## EXPERIENCE
+
+More than 10 years programing in PHP technologies and more than 5 years using Symfony as preferred framework. Experienced with Javascript, CSS and HTML in frontend developments. Used to usgin Git as version control since ever. Excited by Plataform as a Service(PaaS) technologies, such as Docker and Kubernetes. Part-time DevOps, running tests, deploying services in cloud and hosting servers and more. Sometimes, a little perfectionist.
