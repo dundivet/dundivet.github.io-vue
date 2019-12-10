@@ -95,7 +95,7 @@ _Bootstrap, Symfony & MySQL_
 
 **2014 - Caribbean Points of Interest**
 
-Caribbean points of interests.
+Website with Caribbean points of interests.
 _Bootstrap, Symfony, MySQL, GoogleMaps_
 
 **2014 - Buses Workshop, Storage & Resources Manager**
